@@ -1,8 +1,3 @@
----
-layout: post
-title: Upcoming Event
----
-
 ## [BSides Huntsville](http://http://www.bsideshuntsville.org/ "BSides Huntsville")
 #### Feb 6-7th 2015 
 
