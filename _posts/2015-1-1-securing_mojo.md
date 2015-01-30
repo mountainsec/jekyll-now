@@ -19,7 +19,7 @@ You see, one of the biggest issues that we have found with these shared spaces i
 
 Not many startups that utilize coworking spaces have the luxury or budget for a dedicated security team to monitor and protect their data right out of the gate. Coworking environments taking the initiative to provide secure network access to their clients is a major step in the right direction!
 
-Recently the team at mountainsec, LLC partnered with one of Asheville's premiere work spaces, Mojo Coworking, to redesign and implement a network architecture with security at its core.
+Recently the team at mountainsec, LLC partnered with one of Asheville's premiere work spaces, [Mojo Coworking](https://mojocoworking.spaces.nexudus.com/en/about "Mojo Cowroking"), to redesign and implement a network architecture with security at its core.
 
 Starting from the ground up, we made improvements to the network while still meeting the goal of providing easy access for members.
 
