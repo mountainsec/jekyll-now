@@ -25,6 +25,6 @@ But why does open source matter?
 In this talk we will look at why open source is so important to the InfoSec world as well as diving into some of the tools and processes that you can leverage as you get started. 
 
 
-## [BSides Asheville](http://bsidesashville.com 
+## [BSides Asheville](http://bsidesashville.com "BSides Asheville")
 ##### June 26-27th
 
