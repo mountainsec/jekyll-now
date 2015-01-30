@@ -2,7 +2,7 @@
 layout: post
 title: Securing "Mojo"
 ---
-![mojo]: https://mojocoworking.spaces.nexudus.com/en/business/getlogo?h=60
+![mojo]: (https://mojocoworking.spaces.nexudus.com/en/business/getlogo?h=60)
 
 We live in a startup culture and all around us new businesses are popping up everywhere and Asheville is no exception! With the staggering amount of new ventures taking place, people need a place that not only promotes creativity, but also productivity. 
 
